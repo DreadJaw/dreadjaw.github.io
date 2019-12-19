@@ -1,5 +1,6 @@
 ## Strange Websites on the Internet
 This list is an an alphabetical order.
+- [corndog.io](http://corndog.io) - Endless scrolling corndogs.
 - [Endless Horse](http://endless.horse) - The page grows as you scroll.
 - [Hacker Typer](http://www.hackertyper.com) - Pretend to be a hacker and "type" C++.
 - [Has the Large Hadron Collider destroyed the world yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com) - Just checking...
