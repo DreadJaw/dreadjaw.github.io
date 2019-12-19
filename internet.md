@@ -1,5 +1,5 @@
 ## Strange Websites on the Internet
-This list is an an alphabetical order.
+This list is in an alphabetical order.
 - [corndog.io](http://corndog.io) - Endless scrolling corndogs.
 - [Crouton](https://crouton.net) - An image of a crouton.
 - [Endless Horse](http://endless.horse) - The page grows as you scroll.
