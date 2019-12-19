@@ -1,5 +1,6 @@
 ## Strange Websites on the Internet
 This list is in an alphabetical order.
+- [B.A.B.](http://buzzybuzz.biz) - A flying bee.
 - [corndog.io](http://corndog.io) - Endless scrolling corndogs.
 - [Crouton](https://crouton.net) - An image of a crouton.
 - [Endless Horse](http://endless.horse) - The page grows as you scroll.
