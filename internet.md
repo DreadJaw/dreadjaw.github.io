@@ -3,6 +3,7 @@ This list is in an alphabetical order.
 - [B.A.B.](http://buzzybuzz.biz) - A flying bee.
 - [corndog.io](http://corndog.io) - Endless scrolling corndogs.
 - [Crouton](https://crouton.net) - An image of a crouton.
+- [dog](http://dogs.are.the.most.moe) - Pet the dog (Undertale Edition).
 - [Endless Horse](http://endless.horse) - The page grows as you scroll.
 - [Hacker Typer](http://www.hackertyper.com) - Pretend to be a hacker and "type" C++.
 - [Has the Large Hadron Collider destroyed the world yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com) - Title is self explanitory.
