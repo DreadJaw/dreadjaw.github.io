@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
+title: My Slice of Hell
+description: I have no idea what this is for yet.
+show_downloads: false
